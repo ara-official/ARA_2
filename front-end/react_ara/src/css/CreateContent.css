@@ -1,0 +1,179 @@
+.CreateContent {
+    /* border: 3px solid black; */
+    /* padding: 8px; */
+    /* margin: 8px; */
+
+    /* background-image: url("../Shizuoka__wasabi_icecream.jpeg"); */
+    /* background-image: url("cafe.jpeg"); */
+    /* background-size: 100vw; */
+    /* background-color: white */
+    width: 100vw;
+}
+
+.CreateContent .top #pageName {
+    position: fixed;
+    top: 25px;
+    left: 50px;
+    
+    font-size: 14px;
+}
+
+.CreateContent .bottom {
+    height: 100vmax;
+    margin-top: 80px;
+    background-color: rgb(255, 255, 255);
+}
+
+.CreateContent .bottom #title_txt {
+    position: fixed;
+    top: 110px;
+    left: 30px;
+    height: 5vh;
+    width: 10vw;
+    font-size: 18px;
+    font-weight: bold;
+
+}
+
+.CreateContent .bottom #title {
+    position: fixed;
+    top: 100px;
+    right: 20px;
+    width: 65vw;
+    height: 5vh;
+
+    padding: 6px;
+    padding-left: 10px;
+
+    font-size: 18px;
+    font-weight: bold;
+
+    border-radius: 50px;
+    border: 1px solid gainsboro;
+    box-shadow: 0px 2px 2px gainsboro;
+}
+.CreateContent .bottom #meeting_date_txt {
+    position: fixed;
+    top: 160px;
+    left: 10px;
+    width: 20vw;
+    height: 5vh;
+
+    font-size: 18px;
+    font-weight: bold;
+    
+}
+.CreateContent .bottom #meeting_date {
+    position: fixed;
+    top: 150px;
+    right: 20px;
+    width: 65vw;
+    height: 5vh;
+    padding: 6px;
+    padding-left: 10px;
+
+    
+    font-size: 18px;
+    font-weight: bold;
+
+    border-radius: 50px;
+    border: 1px solid gainsboro;
+    box-shadow: 0px 2px 2px gainsboro;
+    
+}
+.CreateContent .bottom #min_num_of_member_txt {
+    position: fixed;
+    top: 210px;
+    left: 10px;
+    width: 20vw;
+    height: 5vh;
+
+    font-size: 18px;
+    font-weight: bold;
+}
+.CreateContent .bottom #min_num_of_member {
+    position: fixed;
+    top: 200px;
+    right: 20px;
+    width: 65vw;
+    height: 5vh;
+    padding: 6px;
+    padding-left: 10px;
+
+    font-size: 18px;
+    font-weight: bold;
+
+    border-radius: 50px;
+    border: 1px solid gainsboro;
+    box-shadow: 0px 2px 2px gainsboro;
+}
+.CreateContent .bottom #max_num_of_member_txt {
+    position: fixed;
+    top: 260px;
+    left: 10px;
+    width: 20vw;
+    height: 5vh;
+
+    font-size: 18px;
+    font-weight: bold;
+}
+.CreateContent .bottom #max_num_of_member {
+    position: fixed;
+    top: 250px;
+    right: 20px;
+    width: 65vw;
+    height: 5vh;
+    padding: 6px;
+    padding-left: 10px;
+
+
+
+    font-size: 18px;
+    font-weight: bold;
+
+    border-radius: 50px;
+    border: 1px solid gainsboro;
+    box-shadow: 0px 2px 2px gainsboro;
+}
+
+.CreateContent .bottom #content_txt {
+    position: fixed;
+    top: 310px;
+    left: 30px;
+    width: 10vw;
+    height: 13vh;
+
+    font-size: 18px;
+    font-weight: bold;
+}
+.CreateContent .bottom #content {
+    position: fixed;
+    top: 300px;
+    right: 20px;
+    width: 65vw;
+    height: 13vh;
+    padding: 6px;
+    padding-left: 10px;
+
+
+    font-size: 18px;
+    font-weight: bold;
+
+    border-radius: 20px;
+    border: 1px solid gainsboro;
+    box-shadow: 0px 2px 2px gainsboro;
+}
+.CreateContent .bottom #searchButton {
+    position: fixed;
+    top: 500px;
+    right: 20px;
+
+    font-size: 16px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+
+    border-radius: 5px;
+    background-color: rgb(0, 132, 137);
+
+    border-radius: 50px;
+}
